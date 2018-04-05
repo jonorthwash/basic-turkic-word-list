@@ -6,6 +6,12 @@ A basic Turkic word list for testing computational historical linguistics algori
   * Sometimes the choice is arbitrary and forced as to which word is chosen
   * Often this approach hides the existence of cognates
 * Sometimes cognates are favoured because of how dictionary was built.
+* Some data is probably not perfect, for a variety of reasons:
+  * Differences in sources
+  * Inconsistency with translations
+  * Lack of actual knowledge of the language
+  
+Please feel free to suggest ways to improve upon any of these (through the issue tracker), or submit fixes (via a pull request).
 
 ## Sources
 * Much of the basic wordlist was built from [StarLing's Turkic etymological database](http://starling.rinet.ru/cgi-bin/query.cgi?basename=\data\alt\turcet&root=config&morpho=0)
@@ -27,5 +33,5 @@ A basic Turkic word list for testing computational historical linguistics algori
 
 ## Citing
 
-This data is dual licensed under GPL v3.0 and CC-BY-SA 4.0.  If you use the data for a project and publish the results, please [cite the repository](https://academia.stackexchange.com/a/14015), listing all the authors.  The full list of authors currently consists of:
+This data is dual licensed under GPL v3.0 and CC-BY-SA 4.0.  If you use the data for a project and publish the results, please [cite the repository](https://academia.stackexchange.com/a/14015), listing all the contributors as authors.  The full list of contributors currently consists of:
 * Jonathan North Washington
