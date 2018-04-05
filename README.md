@@ -23,3 +23,8 @@ A basic Turkic word list for testing computational historical linguistics algori
   * [sakhatyla.ru](http://sakhatyla.ru) for Sakha.
   * [CTILD](http://www.indiana.edu/~ctild/dict/) for Uzbek.
   * Чумакаев et al. (2015).  Русско-алтайский словарь / орус-алтай сӧзлик.  [for Altay]
+
+## Citing
+
+This data is dual licensed under GPL v3.0 and CC-BY-SA 4.0.  If you use the data for a project and publish the results, please [cite the repository](https://academia.stackexchange.com/a/14015), listing all the authors.  The full list of authors currently consists of:
+* Jonathan North Washington
