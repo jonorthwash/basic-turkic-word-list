@@ -3,8 +3,9 @@ A basic Turkic word list for testing computational historical linguistics algori
 
 ## Limitations
 * There's only one word given per sense
-** Sometimes the choice is arbitrary and forced as to which word is chosen
-** Often this approach hides the existence of cognates
+  * Sometimes the choice is arbitrary and forced as to which word is chosen
+  * Often this approach hides the existence of cognates
+* Sometimes cognates are favoured because of how dictionary was built.
 
 ## Sources
 * Much of the basic wordlist was built from [StarLing's Turkic etymological database](http://starling.rinet.ru/cgi-bin/query.cgi?basename=\data\alt\turcet&root=config&morpho=0)
