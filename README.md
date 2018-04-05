@@ -1,4 +1,4 @@
-# basic-turkic-word-list
+# basic-turkic-wordlist
 A basic Turkic word list for testing computational historical linguistics algorithms
 
 ## Limitations
