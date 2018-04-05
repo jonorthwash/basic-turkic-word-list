@@ -12,7 +12,7 @@ A basic Turkic word list for testing computational historical linguistics algori
   * This has the occasional effect of favouring cognates
   * Transcriptions were adjusted based on JNW's [rudimentary] familiarity with some languages and to be more IPA-compatible
 * The Kazakh and Kyrgyz data was drawn on JNW's own [L2/linguist] knowledge of the languages, and checked against dictionaries
-* Other sources consulted include
+* Other sources were consulted to clean up and expand coverage of individual languages.  These sources include:
   * Imart on Fu-yü Gyrgys
   * Clark (1998).  Turkmen Reference Grammar.
   * Баскаков et al. (1968).  Түкменче-русча сөзлүк.  [for Turkmen]
@@ -23,6 +23,7 @@ A basic Turkic word list for testing computational historical linguistics algori
   * [sakhatyla.ru](http://sakhatyla.ru) for Sakha.
   * [CTILD](http://www.indiana.edu/~ctild/dict/) for Uzbek.
   * Чумакаев et al. (2015).  Русско-алтайский словарь / орус-алтай сӧзлик.  [for Altay]
+  * Гаркавец, А.Н. & Усеинв, С.М. (2002).  Крымскотатарско-русско-украинский словарь.  [for Crimean Tatar]
 
 ## Citing
 
