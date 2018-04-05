@@ -30,6 +30,7 @@ Please feel free to suggest ways to improve upon any of these (through the issue
   * [CTILD](http://www.indiana.edu/~ctild/dict/) for Uzbek.
   * Чумакаев et al. (2015).  Русско-алтайский словарь / орус-алтай сӧзлик.  [for Altay]
   * Гаркавец, А.Н. & Усеинв, С.М. (2002).  Крымскотатарско-русско-украинский словарь.  [for Crimean Tatar]
+  * Бутанаев, В.Я. (2011).  Русско-хакасский словарь.  [for Khakas] 
 
 ## Citing
 
