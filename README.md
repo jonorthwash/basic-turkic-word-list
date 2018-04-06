@@ -1,5 +1,5 @@
 # basic-turkic-wordlist
-A basic Turkic word list for testing computational historical linguistics algorithms
+A basic Turkic word list in IPA for testing computational historical linguistics algorithms
 
 ## Limitations
 * There's only one word given per sense
@@ -8,8 +8,12 @@ A basic Turkic word list for testing computational historical linguistics algori
 * Sometimes cognates are favoured because of how dictionary was built.
 * Some data is probably not perfect, for a variety of reasons:
   * Differences in sources
-  * Inconsistency with translations
+  * Inconsistency with translations, e.g. where a language has more than one word for a particular item (which is default?)
+    * Problematic words are "dog" (kœpek/ijt), "breast" (kœkys/kœkyrek/tœʃ), "sun" (kyn/kyneʃ/quyaʃ)
   * Lack of actual knowledge of the language
+  * Phonemicky versus phoneticky transcriptions
+    * Subphonemic voicing (or other lenition) was not indicated in Chuvash
+    * Initial rounding of /ɑ/ (as [ɒ]) was indicated in Tatar
   
 Please feel free to suggest ways to improve upon any of these (through the issue tracker), or submit fixes (via a pull request).
 
