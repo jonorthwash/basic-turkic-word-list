@@ -32,6 +32,8 @@ Please feel free to suggest ways to improve upon any of these (through the issue
   * Гаркавец, А.Н. & Усеинв, С.М. (2002).  Крымскотатарско-русско-украинский словарь.  [for Crimean Tatar]
   * Бутанаев, В.Я. (2011).  Русско-хакасский словарь.  [for Khakas] 
   * Астемирова, Ф.Б. & Н.Э. Гаджиахмедов (2008).  Школьный руссокумыкский словарь / школалар учун орусча-къумукъча сёзлюк.  [for Kumyk]
+  * Hahn, Reinhard (1991).  An Annotated Sample of Ili Turki.
+  * Xiāngrú, Zhào & Reinhard Hahn (1989).  The Ili Turk People and Their Language
 
 ## Citing
 
