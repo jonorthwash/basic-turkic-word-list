@@ -34,6 +34,7 @@ Please feel free to suggest ways to improve upon any of these (through the issue
   * Астемирова, Ф.Б. & Н.Э. Гаджиахмедов (2008).  Школьный руссокумыкский словарь / школалар учун орусча-къумукъча сёзлюк.  [for Kumyk]
   * Hahn, Reinhard (1991).  An Annotated Sample of Ili Turki.
   * Xiāngrú, Zhào & Reinhard Hahn (1989).  The Ili Turk People and Their Language
+  * Гаркавець, Олександр (2000).  Урумський словник.  [for Urum]
 
 ## Citing
 
