@@ -1,5 +1,5 @@
-Language	Kyrgyz	Kazakh	Turkish	Azeri	Turkmen	Uzbek	Uyghur	Kumyk	Karachay-Balkar	Tatar	Bashqort	Chuvash	Sakha	Halaj	Khakas	Tuvan	Altay	Shor	Fu-yü Gyrgys	Yughur	Salar	Crimean Tatar	Karakalpak	Karaim	Tofa	Gagauz	Dolgan	Ili Turkic	Urum	Siberian Tatar	Chulym	Northern Altay	Southern Uzbek	Southern Azeri
-ISO 639-3	kir	kaz	tur	aze	tuk	uzb	uig	kum	krc	tat	bak	chv	sah	klj	kjh	tyv	alt	cjs	—	ybe	slr	crh	kaa	kdr	kim	gag	dlg	Ili	uum	sty	clw	atv	uzs	azb
+Language	Kyrgyz	Kazakh	Turkish	Azerbaijani	Turkmen	Uzbek	Uyghur	Kumyk	Karachay-Balkar	Tatar	Bashqort	Chuvash	Sakha	Halaj	Khakas	Tuvan	Altay	Shor	Fu-yü Gyrgys	Yughur	Salar	Crimean Tatar	Karakalpak	Karaim	Tofa	Gagauz	Dolgan	Ili Turkic	Urum	Siberian Tatar	Chulym	Northern Altay	Southern Uzbek	Southern Azerbaijani
+ISO 639-3	kir	kaz	tur	aze	tuk	uzb	uig	kum	krc	tat	bak	chv	sah	klj	kjh	tyv	alt	cjs	—	ybe	slr	crh	kaa	kdr	kim	gag	dlg	ili	uum	sty	clw	atv	uzs	azb
 lat,lon	41.5,75.2	47.8,67.8	39.0,32.7	39.8,47.9	39.0,59.0	39.6,66.3	43,88.5	43.0,47.2	43.6,43	55.79,49.1	54.7,56	55.6,46.9	63.5,129.5	34.1,49.7	53.72,90.5	51.7,94.4	50.8,86.55	54,87	47.79,124.46	38.8,99.6	36,103	45.1,34	43.1,59.4	54.64,24.93	54,97.1	46.3,28.7	71.9,102	43.67,81.9	47.6,37.5	57.4,73	57.31,88.16	51.9,87.2		
 I	men	miɘn	bæn	mæn	men	men	mæn	men	men	min	min	epɘ	min	mæn	min	men	men	men	min	men	meːn		miɘn	men	men	ben	min	men	men					
 You	sen	siɘn	sæn	sæn	θen	sen	sæn	sen	sen	sin	hin	esɘ	en		sin	sen	sen	sen	sin	sen	seːn		siɘn	sɯn	sen	sæn	en	sen	sen					
@@ -24,7 +24,7 @@ Tongue	til	tɘl	dil	dil	dil	tɨl	tɨl	til	til	tɘl	tɘl	ʧɘlxe	tɯl	til	tɘl	d�
 Knee	tize	tɘzie	diz	diz	dɯːz	tiz	tiz	tiz	tiz	tɘz	tɘð	ʧɘrkuɕɕi	tyhex		tɘzek	diskek	tize	tize	dizi	dɯz	tyzə		dɘziɘ	tɯz	tiskek	diɕ			tiz					
 Hand	qoɫ	quʊɫ	ɛl	æl	el	qɵl	qoɫ	qoɫ		quɫ	quɫ	ɑɫə	iliː	æl	xoɫ	xoɫ	qoɫ	qoɫ	ɢoɫ	ɨlɨɣ	ɛl	qoɫ			qoɫ			qɵɫ	χoɫ					
 Breast	kœkyrœk	kyʉkɘriɘk	ɟœys	dœʃ	dœːʃ	tɵʃ	tœʃ	tœʃ	tœʃ	tʏʃ	tʏʃ	kɒkər	tyœs		tœs	tœʃ	tœʃ	tœʃ	dus	tœs		kœkys			dœʃ				kœkys					
-Liver	boːr	bɑwər	bɑɯr	bɑʁɯr	bɑʁɯr	baʁɨr	beʁɨr	bɑvur	bɑwur	bɑwər	bɑwər	pœʋer	bɯɑr		pɑːr	bɑːr	buːr		bɑːr	bɑʁɯr	bɑʁɯr	bɑʁɯr	bɑwər	bɑʁɯr	bɑːr		bɯɑr	bɵwur	bɑʁɯr					
+Liver	boːr	bɑwər	bɑɯr	bɑʁɯr	bɑʁɯr	baʁɨr	beʁɨr	bɑvur	bɑwur	bɒwər	bɑwər	pœʋer	bɯɑr		pɑːr	bɑːr	buːr		bɑːr	bɑʁɯr	bɑʁɯr	bɑʁɯr	bɑwər	bɑʁɯr	bɑːr		bɯɑr	bɵwur	bɑʁɯr					
 Drink	iʧ	ɘʃ	iʧ	iʧ	iʧ	ɨʧ	ɨʧ	iʧ	iʧ	ɘɕ	ɘs	ɘɕ	is	iʧ	ɘs	iʃ	iʧ	iʃ	iʃ	ɯʂ	iʃ	iʧ			iʃ			iʧ	iʧ					
 See	kœr	kyʉr	ɟœr	gœr	gœr	kɵr	kœr	gœr	kœr	kʏr	kʏr	kur	kœr	ker	kœr	kœr	kœr		gyr	gœr	gœr	kœr			kœr			kɵr	kœr					
 Hear	uq	iɘstɘ	iʃit	eʃit	eʃit	eʃɨt	eʃet	eʃit	eʃti	iʃɘt	iʃɘt	ilt	ihit	iʃyt	ist	dɯɴnɑ	uq		iʃti	tɯŋna	iʃti	eʃit			dɯɴnɑ			eʃit	iʃt					
