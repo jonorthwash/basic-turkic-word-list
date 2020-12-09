@@ -5,17 +5,19 @@ A basic Turkic word list in IPA for testing computational historical linguistics
 * There's only one word given per sense
   * Sometimes the choice is arbitrary and forced as to which word is chosen
   * Often this approach hides the existence of cognates
-* Sometimes cognates are favoured because of how dictionary was built.
+* Sometimes cognates are favoured because of how the dictionary was built.
 * Some data is probably not perfect, for a variety of reasons:
   * Differences in sources
-  * Inconsistency with translations, e.g. where a language has more than one word for a particular item (which is default?)
+  * Inconsistency with translations, e.g. where a language has more than one word for a particular item (which is "default"?)
     * Problematic words are "dog" (kœpek/ijt), "breast" (kœkys/kœkyrek/tœʃ), "sun" (kyn/kyneʃ/quyaʃ)
-  * Lack of actual knowledge of the language
+  * Lack of actual knowledge by the contributor(s) of some of the languages
   * Phonemicky versus phoneticky transcriptions
     * Subphonemic voicing (or other lenition) was not indicated in Chuvash
     * Initial rounding of /ɑ/ (as [ɒ]) was indicated in Tatar
   
 Please feel free to suggest ways to improve upon any of these (through the issue tracker), or submit fixes (via a pull request).
+
+Requests for adding individual words will also be considered (through the issue tracker).
 
 ## Sources
 * Much of the basic wordlist was built from [StarLing's Turkic etymological database](http://starling.rinet.ru/cgi-bin/query.cgi?basename=\data\alt\turcet&root=config&morpho=0)
