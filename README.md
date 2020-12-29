@@ -31,7 +31,7 @@ Requests for adding individual words will also be considered (through the issue 
   * Рассадин, В.И. (1995).  Тофаларско-русский / русско-тофаларский словарь.  [for Tofa]
   * [seslisozluk.com](http://seslisozluk.com) for Turkish.
   * [tyvan.ru](http://tyvan.ru) for Tuvan.
-  * [samah.chv.su](samah.chv.su/cgi-bin/s.cgi) for Chuvash.
+  * [samah.chv.su](http://samah.chv.su/cgi-bin/s.cgi) for Chuvash.
   * [sakhatyla.ru](http://sakhatyla.ru) for Sakha.
   * [CTILD](http://www.indiana.edu/~ctild/dict/) for Uzbek.
   * Чумакаев et al. (2015).  Русско-алтайский словарь / орус-алтай сӧзлик.  [for Altay]
