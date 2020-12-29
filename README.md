@@ -25,7 +25,7 @@ Requests for adding individual words will also be considered (through the issue 
   * Transcriptions were adjusted based on JNW's [rudimentary] familiarity with some languages and to be more IPA-compatible
 * The Kazakh and Kyrgyz data was drawn on JNW's own [L2/linguist] knowledge of the languages, and checked against dictionaries
 * Other sources were consulted to clean up and expand coverage of individual languages.  These sources include:
-  * Imart on Fu-yü Gyrgys
+  * Zhen-hua & Imart (1987).  Fu-yü Gïrgïs: A tentative description of the easternmost Turkic language.  [for Fu-yü Gyrgys]
   * Clark (1998).  Turkmen Reference Grammar.
   * Баскаков et al. (1968).  Түкменче-русча сөзлүк.  [for Turkmen]
   * Рассадин, В.И. (1995).  Тофаларско-русский / русско-тофаларский словарь.  [for Tofa]
